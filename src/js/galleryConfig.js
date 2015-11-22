@@ -9,7 +9,7 @@
 
   function ionGalleryConfig(){
     this.config = {
-      action_label: 'Done',
+      action_label: 'show',
       toggle: true,
       row_size: 3
     };
